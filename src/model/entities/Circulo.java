@@ -2,7 +2,7 @@ package model.entities;
 
 import model.entities.enums.Color;
 
-public class Circulo extends Forma {
+public class Circulo extends FormaAbstrata {
 
 	private Double raio;
 

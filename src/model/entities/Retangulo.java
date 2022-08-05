@@ -2,7 +2,7 @@ package model.entities;
 
 import model.entities.enums.Color;
 
-public class Retangulo extends Forma {
+public class Retangulo extends FormaAbstrata {
 
 	private Double altura;
 	private Double base;
